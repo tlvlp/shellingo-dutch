@@ -1,4 +1,4 @@
-# Greeting dialogues
+# Greeting
 to greet                    | begroeten
 to say goodbye              | afscheid nemen
 Good morning                | goedemorgen
@@ -6,12 +6,19 @@ Good day                    | goedemiddag
 Good evening                | goedenavond
 Hello                       | hallo
 Hi                          | hoi
+Hi / good day to you sir    | dag meneer
+Hi / good day to you madam  | dag mevrouw
 Bye / see you later         | tot straks
 Bye / see you soon          | tot zo
 Bye / see you tomorrow      | tot morgen
 Bye / so long               | tot ziens
 Bye / good day              | daag
-Hi / good day to you sir    | dag meneer
-Hi / good day to you madam  | dag mevrouw
+Bye / good day              | dag
+Bye (informal)              | doei
+Bye (informal)              | doeg
+
+
+
+
 
 

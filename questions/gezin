@@ -1,21 +1,33 @@
-the family      | het gezin
-mother          | moeder
-father          | vader
-grandmother     | oma
-grandmother     | grootmoeder
-grandfather     | opa
-grandfather     | grootvader
-parents         | ouders
-children        | kinderen
-son             | zoon
-daughter        | dochter
-brother         | broer
-sister          | zus
-aunt            | tante
-uncle           | oom
-niece           | neef
-nephew          | nicht
-stepfather      | stiefvader
-stepmother      | schoonmoeder
-godmother       | peetmoeder
-godfather       | peetvader
+the family          | het gezin
+the family          | de familie
+
+the mother          | de moeder
+the father          | de vader
+the grandmother     | de oma
+the grandmother     | de grootmoeder
+the grandfather     | de opa
+the grandfather     | de grootvader
+the parents         | de ouders
+the children        | het kinderen
+the child           | het kind
+the grandchild      | het kleinkind
+the son             | de zoon
+the daughter        | de dochter
+the brother         | de broer
+the sister          | de zus
+the aunt            | de tante
+the uncle           | de oom
+the nephew / cousin | de neef
+the niece / cousin  | de nicht
+the stepfather      | de stiefvader
+the stepmother      | de schoonmoeder
+the godmother       | de peetmoeder
+the godfather       | de peetvader
+the brother in law  | de zwager
+the sister in law   | de schoonzus
+
+the husband         | de man
+the husband         | de echtgenoot
+
+the wife            | de vrouw
+the wife            | de echtgenote

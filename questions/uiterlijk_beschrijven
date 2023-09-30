@@ -1,3 +1,30 @@
-appearance | uiterlijk
-to describe | beschrijven
-tall | lang
+appearance      | uiterlijk
+to describe     | beschrijven
+tall            | lang
+tall            | groot
+short           | klein
+young           | jong
+old             | oud
+color           | kleur
+blond           | blond
+brown           | bruin
+black           | zwart
+red             | rood
+grey            | gris
+bald            | kaal
+straight hair   | steil haar
+curly hair      | krullen haar
+wavy hair       | golvend haar
+long hair       | lang haar
+short hair      | kort haar
+glasses         | een bril
+no glasses      | geen bril
+eyes            | ogen
+eye (single)    | oog
+mustache        | snor
+beard           | baard
+thick / fat     | dik
+thin / lean     | dun
+normal build    | normaal postuur
+hairy           | behaard
+hairy           | haarig
