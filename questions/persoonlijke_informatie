@@ -1,21 +1,21 @@
-personal | persoonlijk
-information | informatie
-name | naam
-age | leeftijd
-nationality | nationaliteit
-occupation | werk
-facts / details | gegevens
-first name | voornaam
-last name | achternaam
-street | straat
-house number | huisnummer
-additional details (in an address) | toevoeging
-post code | postcode
-residence (city) | woonplaats
-gender | geslacht
-male | man
-female | vrouw
-date of birth | geboortedatum
-country of origin | geboorteland
-telephone number | telefoonnummer
-e-mail address | e-mailadres
+personal                            | persoonlijk
+information                         | informatie
+name                                | naam
+age                                 | leeftijd
+nationality                         | nationaliteit
+occupation                          | werk
+facts / details                     | gegevens
+first name                          | voornaam
+last name                           | achternaam
+street                              | straat
+house number                        | huisnummer
+additional details (in an address)  | toevoeging
+post code                           | postcode
+residence (city)                    | woonplaats
+gender                              | geslacht
+male                                | man
+female                              | vrouw
+date of birth                       | geboortedatum
+country of origin                   | geboorteland
+telephone number                    | telefoonnummer
+e-mail address                      | e-mailadres
